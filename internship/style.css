@@ -1,0 +1,78 @@
+div {
+  height: 1000px;
+  font-size: 40px;
+  word-spacing: 20px;
+  letter-spacing: 5px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: black;
+  margin: 3 rem;
+}
+.welcome {
+  background: url("./welcome.png");
+  background-size: cover;
+  background-position: center;
+}
+
+a {
+  background: orange;
+  text-decoration: none;
+  padding: 0 rem 1.5 rem;
+  color: black;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#one {
+  outline-width: 1 rem;
+  outline-style: solid;
+  outline-color: white;
+  outline-offset: 10px;
+}
+#two {
+  outline-width: 1 rem;
+  outline-style: solid;
+  outline-color: white;
+  outline-offset: 10px;
+}
+#three {
+  outline-width: 1 rem;
+  outline-style: solid;
+  outline-color: white;
+  outline-offset: 10px;
+}
+.meme {
+  background: url("./meme.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.shortvideo {
+  background: url("./video.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.doodle {
+  background: url("./doodle.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.quiz {
+  background: url("./quiz.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photography {
+  background: url("./photography.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.M{
+  height: 50px;
+  font-size: 50px;
+  display: flex;
+  justify-content: end;
+  text-align:center
+  color:red;
+  background-color: orange;
+}
